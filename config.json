@@ -1,0 +1,32 @@
+{
+  "name": "Episode frame reorder",
+  "type": "app",
+  "version": "2.0.0",
+  "categories": [
+    "pointcloud",
+    "labeling",
+    "data management"
+  ],
+  "description": "Reorders frames for better sequential labeling.",
+  "docker_image": "supervisely/data-operations:6.73.534",
+  "instance_version": "6.15.40",
+  "entrypoint": "python -m uvicorn src.main:app --host 0.0.0.0 --port 8000",
+  "port": 8000,
+  "task_location": "workspace_tasks",
+  "icon": "https://github.com/supervisely-ecosystem/episode-frame-reorder/releases/download/v0.0.1/icon.png",
+  "icon_cover": true,
+  "headless": false,
+  "icon_background": "#FFFFFF",
+  "context_menu": {
+    "target": [
+      "pointcloud_project",
+      "pointcloud_dataset",
+      "ecosystem"
+    ]
+  },
+  "modal_template": "src/modal.html",
+  "modal_template_state": {
+    "numberOfTeams": 5
+  },
+  "poster": "https://github.com/supervisely-ecosystem/episode-frame-reorder/releases/download/v0.0.1/POSTER.png"
+}
