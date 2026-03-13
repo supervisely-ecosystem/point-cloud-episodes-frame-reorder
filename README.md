@@ -1,6 +1,22 @@
 <div align="center" markdown>
 <img src="https://github.com/supervisely-ecosystem/episode-frame-reorder/releases/download/v1.0.0/EFR.POSTER.png"/>
 
+<p align='center'>
+  <a href='#overview'>Overview</a> •
+  <a href='#what-it-does'>What it does</a> •
+  <a href='#when-to-use-this-app'>When to use this app</a> •
+  <a href='#how-to-use'>How to use</a> •
+  <a href='#refresh-button'>Refresh button</a>
+</p>
+
+[![](https://img.shields.io/badge/supervisely-ecosystem-brightgreen)](https://ecosystem.supervisely.com/apps/supervisely-ecosystem/point-cloud-episodes-frame-reorder)
+[![](https://img.shields.io/badge/slack-chat-green.svg?logo=slack)](https://supervisely.com/slack)
+![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/supervisely-ecosystem/point-cloud-episodes-frame-reorder)
+[![views](https://app.supervisely.com/img/badges/views/supervisely-ecosystem/point-cloud-episodes-frame-reorder.png)](https://supervisely.com)
+[![runs](https://app.supervisely.com/img/badges/runs/supervisely-ecosystem/point-cloud-episodes-frame-reorder.png)](https://supervisely.com)
+
+</div>
+
 # Point Cloud Episodes Frame Reorder
 
 </div>
