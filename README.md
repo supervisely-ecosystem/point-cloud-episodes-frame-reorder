@@ -1,6 +1,9 @@
 <div align="center" markdown>
 <img src="https://github.com/supervisely-ecosystem/episode-frame-reorder/releases/download/v1.0.0/EFR.POSTER.png"/>
 
+
+# Point Cloud Episodes Frame Reorder
+
 <p align='center'>
   <a href='#overview'>Overview</a> •
   <a href='#what-it-does'>What it does</a> •
@@ -17,9 +20,6 @@
 
 </div>
 
-# Point Cloud Episodes Frame Reorder
-
-</div>
 
 ## Overview
 
