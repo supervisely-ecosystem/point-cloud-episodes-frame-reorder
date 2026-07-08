@@ -1,9 +1,10 @@
 {
-  "name": "Point Cloud Episodes frame reorder",
+  "name": "Point Cloud Episodes Frame Reorder",
   "type": "app",
   "version": "2.0.0",
   "categories": [
-    "pointcloud",
+    "pointclouds",
+    "episdoes",
     "data operations",
     "data management"
   ],
